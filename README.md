@@ -66,7 +66,7 @@ The dashboard was built in **Power BI** based on the business requirements. It p
 ---
 
 ## 📷 Dashboard Snapshot
-![Dashboard](./Dashboard%20Snapshot.png)
+![Dashboard]([./Dashboard%20Snapshot.png](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Snapshot%20of%20Dashboard.png))
 
 ---
 
