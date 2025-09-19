@@ -79,7 +79,7 @@ The dashboard was built in **Power BI** based on the business requirements. It p
 
 ## 🚀 How to Use
 1. Download the repository.  
-2. Open the `Insurance_Risk_Claims.pbix` file in **Power BI Desktop** (https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Insurance_Risk_Claims.pbit).  
+2. Open the `Insurance_Risk_Claims.pbix` file in **Power BI Desktop**. (https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Insurance_Risk_Claims.pbit)  
 3. Explore the interactive dashboard with slicers and filters.  
 
 ---
