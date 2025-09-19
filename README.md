@@ -66,14 +66,14 @@ The dashboard was built in **Power BI** based on the business requirements. It p
 ---
 
 ## 📷 Dashboard Snapshot
-![Dashboard]([./Dashboard%20Snapshot.png](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Snapshot%20of%20Dashboard.png))
+![Dashboard](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
 ## 📑 Documents
-- [Business Requirement](./Business%20Requirement.pdf)  
-- [Domain Document](./Domain%20Document.pdf)  
-- [Dataset (Excel)](./insurance_policies_data.xlsx)  
+- [Business Requirement](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Business%20Requirement.pdf)  
+- [Domain Document](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/Domain%20Document.pdf)  
+- [Dataset (Excel)](https://github.com/Ayush647646/Insurance_risk_and_claims_analysis/blob/main/insurance_policies_data.xlsx)  
 
 ---
 
